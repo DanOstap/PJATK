@@ -1,16 +1,10 @@
 # PJATK - Ścieżka rozwoju
 
-Repozytorium przygotowane w ramach laboratorium **WARP** (Warsztat pracy informatyka). Zawiera opis dotychczasowego doświadczenia technicznego oraz plan dalszego rozwoju.
+Repozytorium przygotowane w ramach laboratorium **WARP** (Warsztat pracy informatyka). Zawiera opis dotychczasowego doświadczenia technicznego oraz cele dalszego rozwoju.
 
 ---
 
-## 1. O mnie
-
-Jestem studentem informatyki w PJATK. Interesuję się przede wszystkim programowaniem backendowym oraz budowaniem aplikacji webowych. Poza zajęciami na uczelni staram się tworzyć własne mniejsze projekty, żeby lepiej zrozumieć, jak działają poszczególne narzędzia w praktyce.
-
----
-
-## 2. Dotychczasowe doświadczenie i technologie
+## Dotychczasowe doświadczenie i technologie
 
 Do tej pory miałem okazję pracować z kilkoma językami i technologiami przy okazji projektów uczelnianych oraz własnych:
 
@@ -22,7 +16,7 @@ Do tej pory miałem okazję pracować z kilkoma językami i technologiami przy o
 
 ---
 
-## 3. Cele rozwojowe
+## Cele rozwojowe
 
 Moim głównym celem jest rozwój w kierunku **Backend Developera** (w ekosystemie `.NET` lub `Java`). W najbliższym czasie chcę skupić się na kilku konkretnych obszarach:
 
@@ -31,14 +25,3 @@ Moim głównym celem jest rozwój w kierunku **Backend Developera** (w ekosystem
 3. Pisanie testów jednostkowych i integracyjnych, których często brakowało w moich pierwszych projektach.
 4. Praktyczne wykorzystanie konteneryzacji (`Docker`, `docker-compose`) do uruchamiania całych środowisk lokalnie.
 5. Przygotowanie portfolio projektów na GitHubie pod kątem pierwszego stażu lub pracy jako Junior Backend Developer.
-
----
-
-## 4. Plan działania na najbliższe semestry
-
-| Etap | Zadanie | Status |
-| :--- | :--- | :--- |
-| 1 | Uporządkowanie obecnych repozytoriów na GitHubie (dokumentacja, poprawa struktury) | W trakcie |
-| 2 | Rozwinięcie projektu backendowego z autoryzacją, bazą danych i Dockerem | Planowane |
-| 3 | Regularna praca z Gitem (osobne gałęzie, opisane commity, Pull Requesty) | W trakcie |
-| 4 | Powtórka algorytmów i struktur danych pod kątem rekrutacji | Planowane |
