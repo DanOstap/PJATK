@@ -1,9 +1,3 @@
-# PJATK - Ścieżka rozwoju
-
-Repozytorium przygotowane w ramach laboratorium **WARP** (Warsztat pracy informatyka). Zawiera opis dotychczasowego doświadczenia technicznego oraz cele dalszego rozwoju.
-
----
-
 ## Dotychczasowe doświadczenie i technologie
 
 Do tej pory miałem okazję pracować z kilkoma językami i technologiami przy okazji projektów uczelnianych oraz własnych:
