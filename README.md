@@ -18,4 +18,17 @@ Do tej pory miałem okazję pracować z kilkoma językami i technologiami przy o
 
 ## 3. Cele rozwojowe
 
+Moim głównym celem jest rozwój w kierunku Backend Developera (w ekosystemie .NET lub Java). W najbliższym czasie chcę skupić się na kilku konkretnych obszarach:
+
+1. Pogłębienie wiedzy z zakresu architektury aplikacji backendowych (wzorce projektowe, czysty kod, podział na warstwy).
+2. Lepsze opanowanie pracy z bazami danych - optymalizacja zapytań SQL, migracje oraz ORM (Entity Framework Core / Hibernate).
+3. Pisanie testów jednostkowych i integracyjnych, których często brakowało w moich pierwszych projektach.
+4. Praktyczne wykorzystanie konteneryzacji (Docker, docker-compose) do uruchamiania całych środowisk lokalnie.
+5. Przygotowanie portfolio projektów na GitHubie pod kątem pierwszego stażu lub pracy jako Junior Backend Developer.
+
 ## 4. Plan działania na najbliższe semestry
+
+- Dokończenie i uporządkowanie obecnych projektów w repozytoriach (dodanie dokumentacji, poprawa struktury kodu).
+- Stworzenie jednego większego projektu fullstackowego z naciskiem na backend (autoryzacja JWT, baza PostgreSQL w Dockerze, testy).
+- Regularna praca z Gitem z podziałem na gałęzie i Pull Requesty zamiast wrzucania wszystkiego bezpośrednio na gałąź główną.
+- Nauka algorytmów i struktur danych potrzebnych na rozmowach rekrutacyjnych.
